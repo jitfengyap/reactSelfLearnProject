@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactSelfLearnProject/static/css/main.f5db8dd7.css",
+    "main.js": "/reactSelfLearnProject/static/js/main.988a3620.js",
+    "static/media/ai.png": "/reactSelfLearnProject/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/people.png": "/reactSelfLearnProject/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/dropbox.png": "/reactSelfLearnProject/static/media/dropbox.256390c306b88ca3ec3c.png",
+    "static/media/atlassian.png": "/reactSelfLearnProject/static/media/atlassian.173be7b820dfbe13cb53.png",
+    "static/media/logo.svg": "/reactSelfLearnProject/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/reactSelfLearnProject/index.html",
+    "main.f5db8dd7.css.map": "/reactSelfLearnProject/static/css/main.f5db8dd7.css.map",
+    "main.988a3620.js.map": "/reactSelfLearnProject/static/js/main.988a3620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5db8dd7.css",
+    "static/js/main.988a3620.js"
+  ]
+}
